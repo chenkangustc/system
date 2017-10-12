@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{6989167D-11E4-40FE-8C1A-2192A86A7E90}") = "parallel_channal", "parallel_channal\parallel_channal.vfproj", "{40A23402-B773-40A5-91F5-1E90B45BB67E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{40A23402-B773-40A5-91F5-1E90B45BB67E}.Debug|Win32.ActiveCfg = Debug|Win32
+		{40A23402-B773-40A5-91F5-1E90B45BB67E}.Debug|Win32.Build.0 = Debug|Win32
+		{40A23402-B773-40A5-91F5-1E90B45BB67E}.Release|Win32.ActiveCfg = Release|Win32
+		{40A23402-B773-40A5-91F5-1E90B45BB67E}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
