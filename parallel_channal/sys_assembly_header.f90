@@ -1,7 +1,7 @@
 module sys_assembly_header
     implicit none
     type,public sys_assmebly!描述一个组件的特征和使用方法
-      !private
+      private
       real::fric  !摩擦因子
       type(AssmGeom)::geom !assm_geom
       type(AssmMesh)::mesh !Assm_mesh
